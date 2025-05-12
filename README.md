@@ -1,7 +1,3 @@
-Great! Below is a **professional GitHub README preview** for your **Portfolio Optimizer (0/1 Knapsack)** project. You can directly copy this into your `README.md` file when creating a GitHub repository.
-
----
-
 # 💼 Portfolio Optimizer (0/1 Knapsack)
 
 A command-line tool to optimize investment portfolios using the **0/1 Knapsack algorithm** with optional risk filtering and visualizing the efficient frontier. Built with Python, Pandas, and Matplotlib.
@@ -52,7 +48,7 @@ Portfolio_Optimizer_Project/
 First, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/Portfolio_Optimizer_Project.git
+git clone https://github.com/LAKSHYAMARODIA01/Portfolio-Optimizer-Project
 cd Portfolio_Optimizer_Project
 pip install -r requirements.txt
 ```
